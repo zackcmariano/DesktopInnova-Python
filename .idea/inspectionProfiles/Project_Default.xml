@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MT5.close" />
+          <option value="ASSISTENTE.listtrainer" />
+          <option value="Front_App.*" />
+          <option value="mysql.connector.*" />
+          <option value="PyQt5.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
