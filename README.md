@@ -1,2 +1,2 @@
-# DesktopInnova / Python
-  Telecommunication company desktop app InnovaTelecom
+# DesktopInnova / Python :snake:
+### Telecommunication company desktop app InnovaTelecom
